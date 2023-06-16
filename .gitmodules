@@ -1,3 +1,6 @@
 [submodule "ClickerReaction"]
 	path = ClickerReaction
 	url = https://github.com/deonneon/ClickerReaction
+[submodule "code-quiz"]
+	path = code-quiz
+	url = https://github.com/deonneon/code-quiz
